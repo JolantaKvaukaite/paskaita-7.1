@@ -1,0 +1,41 @@
+table {
+    background-color: white;
+    border: 2px solid red;
+    width: 100%;
+}
+
+.Tables {
+    font-weight: 100;
+}
+
+table, th, td {
+     border: 2px solid red;
+     border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+thead {
+    font-size: solid black;
+}
+
+tbody {
+    background-color: blue;
+    padding: 2px;
+    border-color: 1px solid red;
+    border: solid red;
+}
+
+.Jonas {
+text-align: center;
+}
+
+.Smiltinis {
+    text-align: right;
+}
+.People {
+    text-align: right;
+}
